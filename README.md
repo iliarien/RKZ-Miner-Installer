@@ -7,5 +7,8 @@ This Install is for URANIUMX Coin.
 ```
 wget -O InstURX-Miner.sh "https://raw.githubusercontent.com/iliarien/RKZ-Miner-Installer/master/InstURX-Miner.sh" && chmod 755 InstURX-Miner.sh && ./InstURX-Miner.sh
 ```
-
+to launch the miner just type :
+```
+mine.sh
+```
 Thanks To RicKillerZ for the Miner
